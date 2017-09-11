@@ -33,7 +33,9 @@ npm run api 打开一个终端，运行服务
 
 >  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！ ^_^
 
->  部署详解:<http://blog.csdn.net/qq_28027903/article/details/77929618>
+>  部署详解:http://blog.csdn.net/qq_28027903/article/details/77929618
+
+>  预览地址:http:www.ng-rc.com
 ```
 
 ## 项目布局
@@ -42,7 +44,7 @@ npm run api 打开一个终端，运行服务
 |   |-- app.js							// 启动文件
 |   |-- api.js							// api服务文件
 |   |-- db.js							// MongoDB文件
-|-- src								    // 静态源码目录
+|-- src									// 静态源码目录
 |   |-- components						// 组件
 |   |-- assets							// 公共静态文件、图片
 |   |-- page							//	所有页面
@@ -52,7 +54,7 @@ npm run api 打开一个终端，运行服务
 |   |-- router							// 路由配置
 |       |-- index.js					// 路由集合文件
 |   |-- page							// 页面
-|       |-- Hello.vue
+|       |-- Hello.vue					// 页面文件
 |   |-- store							// vuex的状态管理
 |       |-- index.js					// 引用vuex，创建store
 |   |-- App.vue							// 页面入口文件
