@@ -35,7 +35,7 @@ npm run api 打开一个终端，运行服务
 
 >  部署详解:http://blog.csdn.net/qq_28027903/article/details/77929618
 
->  预览地址:http://www.ng-rc.com
+>  预览地址:http://www.ng-rc.com(域名过期暂时无法预览)
 ```
 
 ## 项目布局
